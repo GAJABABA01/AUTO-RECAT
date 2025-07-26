@@ -23,7 +23,7 @@ sessions = [
     },
     {
         "session_string": "BQFkP6MADUdYCtGiaVdFCLEs3Oaev-80pB5fkv55ePT6RhvDJpQiLw4LKisieBN8dqoh1tB03xrNAkuO2617NDr3xJ_w1Uf90T85hJidAE_lcJ3SjF0JNMaeuXzqokN1-lXG2THbiGu81jWXIdHhbUutzEA9JWRrYgrjZnDN7Y5XQW9QgkfAtkF9aF-KHxoQWXwjW6NHwl9ulBolscCu7RUQ6S6uNI9a3vHUI7Zy-G_RPvjMKMevoawnv_RgMrGhMAmGpy6ccP2d3hHxw4GW5LZqPZcTnpay2BKEDC04gT2Ec4baT5s_CDlmfiqBPy_MrScYxEJjZgZdGu5q_YEb1kxvkHdIOgAAAAG9GPzuAA",
-        "emoji": "😯"
+        "emoji": "🥴"
     }
 ]
 
